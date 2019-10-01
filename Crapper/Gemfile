@@ -1,0 +1,12 @@
+source "https://rubygems.org/"
+
+gem 'nokogiri'
+gem 'byebug'
+gem 'curl'
+gem 'httparty'
+gem 'csv'
+gem 'curb'
+gem 'webdrivers'
+gem 'watir'
+gem 'phantomjs'
+gem 'selenium-webdriver', '~> 3.6.0'
